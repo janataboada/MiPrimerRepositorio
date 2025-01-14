@@ -1,4 +1,5 @@
 #Sobre mí
 *********
 ![Foto](/img/face.png)
-Otra cosa
+
+Hola, este cambio lo ha hecho Miguel Ángel
